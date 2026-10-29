@@ -1,11 +1,11 @@
 ﻿namespace Practico_Bloque_1.Models
 {
-    public class Producto
+    public class Product
     {
         public int Id { get; set; }
-        public string Nombre { get; set; }
-        public decimal Precio { get; set; }
-        public string Categoria { get; set; }
-        public bool Activo { get; set; }
+        public string Name { get; set; }
+        public decimal Price { get; set; }
+        public string Category { get; set; }
+        public bool Active { get; set; }
     }
 }
