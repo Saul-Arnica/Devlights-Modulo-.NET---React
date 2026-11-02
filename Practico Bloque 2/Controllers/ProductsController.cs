@@ -44,6 +44,6 @@ namespace Practico_Bloque_2.Controllers
             return NoContent();
         }
     }
-    {
-    }
+   
 }
+
